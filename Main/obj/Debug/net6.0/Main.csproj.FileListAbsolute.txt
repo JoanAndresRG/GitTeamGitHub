@@ -1,0 +1,15 @@
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\bin\Debug\net6.0\Main.exe
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\bin\Debug\net6.0\Main.deps.json
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\bin\Debug\net6.0\Main.runtimeconfig.json
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\bin\Debug\net6.0\Main.dll
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\bin\Debug\net6.0\ref\Main.dll
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\bin\Debug\net6.0\Main.pdb
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.AssemblyInfo.cs
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.dll
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\ref\Main.dll
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.pdb
+D:\Users\JOAN ANDRES\Desktop\Codes VSC\Git\GitTeams\Main\obj\Debug\net6.0\Main.genruntimeconfig.cache
